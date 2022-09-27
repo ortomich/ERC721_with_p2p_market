@@ -9,3 +9,5 @@ To buy nft you need to call "buy" function and enter the ID of the NFT you want 
 If you want to delist of your NFT, then you need to call the function "stopListing"
 
 All transactions carried out on this p2p market are subject to a commission. The amount of all commissions from all transactions is evenly distributed among all holders of the NFT collection. To distribute them you need to call "withdrawAllComissions"
+
+This mechanic does not prevent the use of conventional NFT marketplaces, like OpenSea
